@@ -1,0 +1,7 @@
+<svg id="visual" viewBox="0 0 1020 980" width="1020" height="980" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <rect x="0" y="0" width="1020" height="980" fill="none"></rect> <!-- Set the fill to "none" for transparency -->
+  <!-- Keep the gradient definitions as they are -->
+  <g transform="translate(1020, 980)">
+    <path d="M-459 0C-417.2 -49.1 -375.4 -98.3 -347.9 -144.1C-320.4 -190 -307.1 -233.5 -283.2 -283.2C-259.3 -332.9 -224.9 -388.7 -175.7 -422.5C-126.6 -456.3 -63.3 -467.1 0 -476L0 0Z" fill="#def1f7"></path>
+  </g>
+</svg>
